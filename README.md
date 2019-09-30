@@ -32,3 +32,21 @@ __磁力搜不收录磁力链接，只是磁力的搬运工__
 ## 相关项目
 [jsoup](https://github.com/jhy/jsoup)  
 [HtmlCleaner](https://mvnrepository.com/artifact/net.sourceforge.htmlcleaner/htmlcleaner)
+
+## fork后程序搭建
+- 下载源码
+- eclipse导入maven项目
+- 设置运行环境，java8+tomcat9，如果没有启动项目则下载高版本tomcat使用
+- 配置build path
+
+<img src="screenshots/buildPath1.png" height="320"/>
+<img src="screenshots/buildPath2.png" height="320"/>
+
+记得加上依赖包-maven
+
+<img src="screenshots/buildPath3.png" height="320"/>
+
+ok
+
+## fork项目更新
+https://blog.csdn.net/lz_peter/article/details/77972270
